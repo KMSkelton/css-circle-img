@@ -1,0 +1,24 @@
+{
+  "name": "css-circle-img",
+  "version": "1.0.0",
+  "homepage": "https://github.com/KMSkelton/css-circle-img",
+  "authors": [
+    "KMSkelton <kmskelton@outlook.com>"
+  ],
+  "description": "simple SCSS mixin for making square images display as round",
+  "main": "circle-img.scss",
+  "keywords": [
+    "css",
+    "circle",
+    "borders",
+    "simple"
+  ],
+  "license": "WTFPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
