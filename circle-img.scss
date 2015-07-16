@@ -1,0 +1,6 @@
+@mixin circle-img ($color, $style) {
+  border-radius: 100%;
+  border-width: 0.2em;
+  border-color: darken($color, 5%);
+  border-style: $style;
+}
